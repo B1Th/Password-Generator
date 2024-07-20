@@ -13,7 +13,7 @@ const jetbrain = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Password Generator by Arda",
+  title: "Password Generator by Bhuwan",
   description: "Generate a password with a length of your choice.",
 };
 
